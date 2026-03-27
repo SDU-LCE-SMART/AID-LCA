@@ -134,37 +134,6 @@ The platform supports a range of analytical and decision-support functionalities
 
 ---
 
-## Example Workflow
-
-The following simplified example illustrates how an AI-assisted LCA workflow can be structured programmatically.
-
-```python
-from aid_lca.ai import LCAAgent
-from aid_lca.data import DataConnector
-from aid_lca.engine import LCAEngine
-
-def run_lca_pipeline():
-    connector = DataConnector(source="iot_stream")
-    raw_data = connector.fetch()
-
-    agent = LCAAgent(model="explainable-ai")
-    structured_data = agent.prepare_data(raw_data)
-
-    engine = LCAEngine(method="PEF")
-    results = engine.calculate(structured_data)
-
-    insights = agent.generate_recommendations(results)
-
-    return results, insights
-
-if __name__ == "__main__":
-    results, insights = run_lca_pipeline()
-    print("Environmental Impact:", results)
-    print("Recommendations:", insights)
-```
-
----
-
 ## Expected Impact
 
 AID-LCA aims to deliver significant impact across industry, policy, and research domains:
