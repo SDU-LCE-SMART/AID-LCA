@@ -26,7 +26,6 @@ The platform is designed to support industrial decision-making, regulatory compl
 </p>
 
 ---
-![AID-LCA Platform Concept](img/workflow.jpg)
 ## Motivation
 
 Life Cycle Assessment is widely recognized as a key methodology for evaluating environmental impacts. However, its adoption and effectiveness are limited by several structural and practical challenges.
@@ -112,7 +111,9 @@ This layer ensures interoperability between different data sources, including in
 ### User Interface and Dashboard
 The platform includes a visualization and decision-support interface that presents results in a structured and interpretable format. It supports scenario analysis, comparison, and recommendation delivery.
 
-![AID-LCA System Architecture](img/architecture.jpg)
+<p align="center">
+  <img src="img/architecture.jpg" alt="AID-LCA System Architecture"/>
+</p>
 
 ---
 
