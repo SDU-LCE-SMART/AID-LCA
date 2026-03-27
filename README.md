@@ -25,6 +25,8 @@ The platform is designed to support industrial decision-making, regulatory compl
   <img src="img/workflow.jpg" alt="AID-LCA Platform Concept"/>
 </p>
 
+---
+![AID-LCA Platform Concept](img/workflow.jpg)
 ## Motivation
 
 Life Cycle Assessment is widely recognized as a key methodology for evaluating environmental impacts. However, its adoption and effectiveness are limited by several structural and practical challenges.
