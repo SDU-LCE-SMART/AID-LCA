@@ -201,19 +201,3 @@ AID-LCA envisions a future where sustainability assessment is:
 By integrating artificial intelligence with sustainability science and industrial systems, the project enables a new generation of intelligent environmental decision-support tools.
 
 ---
-
-## Contributing
-
-Contributions from researchers, developers, and industry partners are welcome.
-
-```bash
-git clone https://github.com/your-org/aid-lca.git
-cd aid-lca
-git checkout -b feature/your-feature-name
-```
-
----
-
-## License
-
-This project is licensed under the terms specified in the LICENSE file.
