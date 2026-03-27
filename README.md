@@ -5,9 +5,9 @@
 | Item | Value |
 |---|---|
 | Project state | Ongoing research and development |
-| Focus | AI-driven Life Cycle Assessment platform |
-| Application domains | Chemicals, textiles, batteries, manufacturing |
-| Alignment | EU Green Deal, PEF, Digital Product Passports |
+| Collaborators | Benyamin Khoshnevisan |
+| Contact person | bekh@igt.sdu.dk (If you are willing to use BETA version please contact us.)|
+| Open-source plan | This repository will be made open source after the scientific papers are published. |
 
 AID-LCA is a next-generation platform designed to transform Life Cycle Assessment (LCA) into an automated, intelligent, and real-time decision-support system by integrating artificial intelligence, digital twins, and interoperable data infrastructures.
 
