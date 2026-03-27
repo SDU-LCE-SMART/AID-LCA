@@ -21,6 +21,8 @@ The project introduces an AI-powered platform that enables automated LCA workflo
 
 The platform is designed to support industrial decision-making, regulatory compliance, and sustainable product development in a consistent and scalable manner.
 
+![AID-LCA Platform Concept](img/workflow.jpg)
+
 ---
 
 ## Motivation
@@ -107,6 +109,8 @@ This layer ensures interoperability between different data sources, including in
 
 ### User Interface and Dashboard
 The platform includes a visualization and decision-support interface that presents results in a structured and interpretable format. It supports scenario analysis, comparison, and recommendation delivery.
+
+![AID-LCA System Architecture](img/architecture.jpg)
 
 ---
 
