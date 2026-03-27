@@ -22,7 +22,7 @@ The project introduces an AI-powered platform that enables automated LCA workflo
 The platform is designed to support industrial decision-making, regulatory compliance, and sustainable product development in a consistent and scalable manner.
 
 <p align="center">
-  <img src="img/workflow.jpg" alt="AID-LCA Platform Concept" width="800"/>
+  <img src="img/workflow.jpg" alt="AID-LCA Platform Concept"/>
 </p>
 ---
 
