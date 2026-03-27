@@ -24,7 +24,6 @@ The platform is designed to support industrial decision-making, regulatory compl
 <p align="center">
   <img src="img/workflow.jpg" alt="AID-LCA Platform Concept"/>
 </p>
----
 
 ## Motivation
 
