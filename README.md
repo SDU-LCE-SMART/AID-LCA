@@ -5,7 +5,7 @@
 | Item | Value |
 |---|---|
 | Project state | Ongoing research and development |
-| Collaborators | Benyamin Khoshnevisan |
+| Collaborators | Benyamin Khoshnevisan, Mohammadhossein Narang, Fatemeh Ghanadi |
 | Contact person | bekh@igt.sdu.dk (If you are willing to use BETA version please contact us.)|
 | Open-source plan | This repository will be made open source after the scientific papers are published. |
 
